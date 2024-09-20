@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947206847960",
+    "project_id": "test-claude-18fa9",
+    "storage_bucket": "test-claude-18fa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947206847960:android:108c0aaaa7a57384e786ad",
+        "android_client_info": {
+          "package_name": "com.example.testclaudechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgGtiBh5v0rwemLEft5qQln58_u5N7vZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
